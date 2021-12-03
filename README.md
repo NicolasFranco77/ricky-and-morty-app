@@ -1,6 +1,6 @@
 # RICKY AND MORTY  WIKI
 
-![image](https://i.ibb.co/ynf5Cz0/Dise-o-sin-t-tulo.png)
+![image](https://i.ibb.co/tMjTzYD/Dise-o-sin-t-tulo-1.jpg)
 
 ### [Live Site](https://serene-wilson-f83f3e.netlify.app/)
 
