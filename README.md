@@ -1,4 +1,4 @@
-# RICKY AND MORTY WIKI
+# RICK AND MORTY WIKI
 
 ![image](https://i.ibb.co/vw3NVrz/Dise-o-sin-t-tulo-2.jpg)
 
